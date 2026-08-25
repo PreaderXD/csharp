@@ -1,4 +1,4 @@
-	using Terraria;
+using Terraria;
 using TerrariaModder.Core;
 
 public class GuideShop : IMod
